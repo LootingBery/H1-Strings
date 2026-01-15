@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="AddSeparator/AddSeparator.csproj" />
+  <Project Path="NumberOfWords/NumberOfWords.csproj" />
+  <Project Path="StringInReverseOrder/StringInReverseOrder.csproj" />
 </Solution>
