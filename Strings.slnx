@@ -1,4 +1,3 @@
 <Solution>
-  <Project Path="NumberOfWords/NumberOfWords.csproj" />
-  <Project Path="StringInReverseOrder/StringInReverseOrder.csproj" />
+  <Project Path="CompressString/CompressString.csproj" />
 </Solution>
